@@ -1,1 +1,1 @@
-# officemart
+This repository contains 40 automatic test cases of website https://officemart.ge/ge. According to Page Object Model the project has 3 parts: HomePageTests, MyCartTests and InvoiceTests. Test cases have short description, where they are numbered and sorted by positive/negative tests cases. Each of them are independent test cases, where we search one or more items, add them to the cart, check all buttons and fields. After that, continue to the invoice page, where we also check all the fields to purchase the product.
